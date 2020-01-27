@@ -16,5 +16,6 @@ Esta é uma aplicação desenvolvida para processo seletivo de estágio da Funda
 
 Requirements:
 
-Python3.7;
-Flask.
+Python3.7.3;
+Flask 1.1.1;
+Werkzeug 0.16.0
