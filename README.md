@@ -14,8 +14,3 @@ Esta é uma aplicação desenvolvida para processo seletivo de estágio da Funda
 λ curl http://localhost:3000/94587
 { "extenso": "noventa e quatro mil e quinhentos e oitenta e sete" }"
 
-Requirements:
-
-Python3.7.3;
-Flask 1.1.1;
-Werkzeug 0.16.0
